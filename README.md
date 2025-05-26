@@ -54,7 +54,7 @@ Welcome to my collection of deep learning projects developed during my academic 
 - **Deep Learning & Generative AI Course Materials:**  
   [Deep-Learning-Generative-AI.pdf](https://github.com/uzzal2200/Deep-Learning-project/blob/main/Deep-Learning-Generative-AI.pdf)
 
----
+-----
 
 ## 👨‍🎓 About Me
 
